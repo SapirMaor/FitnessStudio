@@ -1,0 +1,1 @@
+Design of an object-oriented system in C++, while using classes and data structures, handling memory and avoiding memory leaks.
